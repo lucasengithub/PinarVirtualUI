@@ -12,6 +12,13 @@ h1, h2, h3, h4, h5, h6 {
     h1{
         a{
             font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+            color:  #7640d5;
         }
     }
+}
+
+body#innerdocbody {
+  font-family: 'Atkinson Hyperlegible Next', Arial, Helvetica, sans-serif !important;
+  font-size: 14px;
+  line-height: 20px
 }
